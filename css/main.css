@@ -1,0 +1,23 @@
+/* CSS Document */
+
+*{margin: 0;padding:0; border:0;}
+body{background-color:white;}
+h1{
+	background-color:white;
+	color:white:
+	font-family:Arial black;
+	text-transform: uppercase;
+	
+		
+}
+
+ul li{display:inline;
+}
+ul li
+{font-size:24px;
+}
+a{text-decoration:none;margin:15px;
+}	
+a:hover{
+color:darkred;
+}	
